@@ -1,7 +1,7 @@
 [
-  { "deckName": "Deck 1", "nilai": "80%", "tanggal": "12/08/2024" },
-  { "deckName": "Deck 2", "nilai": "90%", "tanggal": "13/08/2024" },
-  { "deckName": "Deck 3", "nilai": "70%", "tanggal": "14/08/2024" },
-  { "deckName": "Deck 4", "nilai": "85%", "tanggal": "15/08/2024" },
-  { "deckName": "Deck 5", "nilai": "95%", "tanggal": "16/08/2024" }
+  { "deckName": "Deck 1", "nilai": "80%", "tanggal": "12/08/2024", "jawabanBenar": "8", "jawabanSalah": "2" },
+  { "deckName": "Deck 2", "nilai": "90%", "tanggal": "13/08/2024", "jawabanBenar": "9", "jawabanSalah": "1"  },
+  { "deckName": "Deck 3", "nilai": "70%", "tanggal": "14/08/2024", "jawabanBenar": "7", "jawabanSalah": "3"  },
+  { "deckName": "Deck 4", "nilai": "80%", "tanggal": "15/08/2024", "jawabanBenar": "8", "jawabanSalah": "2"  },
+  { "deckName": "Deck 5", "nilai": "100%", "tanggal": "16/08/2024", "jawabanBenar": "10", "jawabanSalah": "0"  }
 ]
